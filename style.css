@@ -59,3 +59,13 @@ button {
   background: #444;
   color: white;
 }
+
+.upper {
+  font-size: 1.4rem;
+  margin-bottom: 0.5rem;
+}
+
+.lower {
+  font-size: 1.8rem;
+  font-weight: bold;
+}
