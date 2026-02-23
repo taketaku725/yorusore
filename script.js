@@ -24,7 +24,7 @@ modeBtn.addEventListener("click", () => {
     modeBtn.textContent = "ノーマルモード";
   } else {
     document.body.classList.add("drink-mode");
-    modeBtn.textContent = "飲み会用モード";
+    modeBtn.textContent = "オトナ♡モード";
   }
 });
 
